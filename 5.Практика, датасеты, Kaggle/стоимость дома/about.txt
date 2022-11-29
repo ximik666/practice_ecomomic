@@ -1,0 +1,8 @@
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=data_description.txt
+
+1. Загрузите данные test.csv и train.csv в 2 модуля file и переименуйте их в test и train, не забудьте указать целевой столбец
+2. C помощью модуля Correlations и Select Columns выберите колонки у которых корреляция с целевым признаком больше 0.4
+3. С помощью модуля Feature Statistics найдите незаполненные значения и удалите эти строки с помощью модуля Impute
+4. Данные действия повторить и для test данных.
+5. Добавить модуль Test and Score и "решатели" kNN, Random Forest, SVM, AdaBoost. Выбрать решатели с минимальными ошибками.
+6. После обучения модели, установить модуль Predictions и на вход ему подайте тестовые данные из файла for_check.csv и сравните результаты. 
