@@ -1,5 +1,6 @@
+1. Ознакомиться с материалом в виде [текста](https://www.youtube.com/playlist?list=PLzilK6a-UuVm65tR5byrLJPB18BrTMlAO) и в виде [видео](https://learn.microsoft.com/ru-ru/power-bi/fundamentals/desktop-getting-started) 
 1. Установите на свой компьютер Power Bi Desktop
-2. Загрузите файл (Calories.xlsx)[https://github.com/ximik666/practice_ecomomic/raw/main/4.%D0%90%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%20BI-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC/Calories.xlsx] в Power Bi Desktop
+2. Загрузите файл [Calories.xlsx](https://github.com/ximik666/practice_ecomomic/raw/main/4.%D0%90%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%20BI-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC/Calories.xlsx) в Power Bi Desktop
 3. Вы должны увидеть, что он содержит разбивку количества калорий для различных типов пиццы Пицца Экспресс
 4. Создайте диаграмму по типам пицц, чтобы сравнить средние калорийности трех разных типов пиццы.
 
